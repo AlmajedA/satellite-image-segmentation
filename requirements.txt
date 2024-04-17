@@ -1,0 +1,12 @@
+torch==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+torchvision==0.17.2
+imageio==2.34.0
+pycocotools==2.0.7
+opencv-python==4.9.0.80
+torchsummary==1.5.1
+ipython==8.23.0
+pandas==2.2.2
+wget==3.2
+dropbox
