@@ -10,3 +10,4 @@ ipython==8.23.0
 pandas==2.2.2
 wget==3.2
 dropbox
+tqdm
